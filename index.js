@@ -1,3 +1,1 @@
-module.exports = exports = {
-    Coinlib: require('./lib/Coinlib'),
-};
+module.exports = exports = require('./lib/Coinlib');
