@@ -4,7 +4,7 @@ A Node.js wrapper for the Coinlib API with no dependencies.
 
 ## • Installation
 
-Latest version: 1.0.0
+Latest version: 1.0.1
 
 `npm install coinlib-api`
 
